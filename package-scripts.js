@@ -1,6 +1,6 @@
 module.exports = {
   scripts: {
-    default: 'node index.js',
+    default: 'npm start',
     test: {
       default: 'react-scripts test --no-watchman --no-cache --coverage --verbose --env=jsdom',
       watch: {
